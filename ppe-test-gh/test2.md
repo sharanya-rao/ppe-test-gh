@@ -1,6 +1,6 @@
 ---
 title: test2
-ms.custom: [abc, 'xyz']
+ms.custom: [123, "test"]
 ---
 
 # test2
